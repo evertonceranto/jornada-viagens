@@ -6,6 +6,16 @@
 }
 
 :root {
+    --background-primary-color: #FFFFFF;
+    --background-primary-color: #F5F5F5;
+    --background-terceary-color: #000000;
+
+    --button-primary-color: #8F0101;
+    --button-primary-color: #B81515;
+
+    --text-primary-color: #222222;
+    --text-secondary-color: #FFFFFF;
+
     --title-weight: 700;
     --text-weight: 400;
     --menu-text-weight: 500;
